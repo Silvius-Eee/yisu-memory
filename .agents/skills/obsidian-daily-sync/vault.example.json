@@ -1,0 +1,6 @@
+{
+  "memory_dir": "记忆",
+  "checkpoint_dir": ".codex/daily",
+  "user_label": "用户",
+  "utc_offset_hours": 8
+}

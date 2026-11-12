@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "This vault holds private memory and is local only. Push refused by .git/hooks/pre-push." >&2
+exit 1

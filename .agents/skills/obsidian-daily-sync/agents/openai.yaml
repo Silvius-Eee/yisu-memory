@@ -1,0 +1,4 @@
+interface:
+  display_name: "弈溯日常同步"
+  short_description: "将当日对话写入 005，并在周结后迁入 001"
+  default_prompt: "使用 $obsidian-daily-sync 将今天的对话归档到当周记忆，并完成结构校验。"
